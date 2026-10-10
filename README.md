@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Amna-Riaz511/leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/Amna-Riaz511/leetcode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/Amna-Riaz511/leetcode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Amna-Riaz511/leetcode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amna-Riaz511/leetcode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Amna-Riaz511/leetcode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0155-min-stack](https://github.com/Amna-Riaz511/leetcode-Solutions/tree/main/0155-min-stack/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/Amna-Riaz511/leetcode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Amna-Riaz511/leetcode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0503-next-greater-element-ii](https://github.com/Amna-Riaz511/leetcode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
